@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SMD-master:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SMD_master_jar</output-path>
+    <root id="archive" name="SMD-master.jar">
+      <element id="module-output" name="SMD-master" />
+    </root>
+  </artifact>
+</component>

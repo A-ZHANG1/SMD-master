@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="jgraph">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Tomcat/jgraph.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/slickerbox1.0rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/colt-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/wsml2reasoner_lgpl-v0_6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/SEWOL-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/wsmo-api-0.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/org.springframework.beans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/apache-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/hibernate-annotations-3.5.0-final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/apache-commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/jaxb2-basics-runtime-1.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Tomcat/wsml2reasoner_lgpl-v0_6.jar!/" />
+    </SOURCES>
+  </library>
+</component>
